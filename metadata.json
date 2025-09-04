@@ -1,0 +1,5 @@
+{
+  "name": "new updates Gemini Multi-Agent Workflow Chat",
+  "description": "An application to orchestrate multiple specialized AI agents (Personas) arranged into stages and parallel assignments. Agents collaborate, critique, refine, and synthesize to produce high-quality outputs.",
+  "requestFramePermissions": []
+}
